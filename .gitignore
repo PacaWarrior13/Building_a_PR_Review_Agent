@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Building a PR Review Agent/*
+!/Building a PR Review Agent/task/
+/Building a PR Review Agent/task/*
+!/Building a PR Review Agent/task/main.py
